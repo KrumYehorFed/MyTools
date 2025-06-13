@@ -8,7 +8,6 @@ A quick glance at the tools and tech I use in my daily development workflow:
 - 🐟 **Fish Shell** – smart, fast, and user-friendly  
 
 ## 🧰 Terminal & System Tools
-- 🚀 **Tabby Terminal** – sleek, customizable terminal  
 - 📁 **ranger** – terminal file manager with vim-like controls  
 - 📊 **btop** – beautiful system resource monitor  
 - 🐙 **Git** – version control you can trust  
