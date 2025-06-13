@@ -3,18 +3,19 @@
 A quick glance at the tools and tech I use in my daily development workflow:
 
 ## 🖥️ OS & Environment
-- 🐧 **Linux Mint** – main desktop OS
-- 📡 **Ubuntu Server** – remote server / deployment
-- 🐟 **Fish Shell** – smart, fast, and user-friendly
+- 🐧 **Linux Mint** – main desktop OS  
+- 📡 **Ubuntu Server** – remote server / deployment  
+- 🐟 **Fish Shell** – smart, fast, and user-friendly  
 
 ## 🧰 Terminal & System Tools
-- 🚀 **Tabby Terminal** – sleek, customizable terminal
-- 📁 **ranger** – terminal file manager with vim-like controls
-- 📊 **btop** – beautiful system resource monitor
-- 🐙 **Git** – version control you can trust
+- 🚀 **Tabby Terminal** – sleek, customizable terminal  
+- 📁 **ranger** – terminal file manager with vim-like controls  
+- 📊 **btop** – beautiful system resource monitor  
+- 🐙 **Git** – version control you can trust  
+- 🌐 **ttyd** – web-based terminal for remote shell access  
 
 ## 🐳 Containers
-- 🧱 **Docker** – containerized environments for everything
+- 🧱 **Docker** – containerized environments for everything  
 
 ## 💻 Code & Editor
-- 🧠 **VS Code** – powerful and extensible code editor
+- 🧠 **VS Code** – powerful and extensible code editor  
